@@ -1,2 +1,2 @@
 # AP-Physics-C-TOPS
-Programs for TOPS (Marc Garneau) AP Physics C 1920
+Programs for TOPS (Marc Garneau CI) AP Physics C 1920
